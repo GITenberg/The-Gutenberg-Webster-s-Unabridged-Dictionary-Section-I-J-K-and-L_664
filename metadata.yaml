@@ -1,5 +1,5 @@
 _repo: The-Gutenberg-Webster-s-Unabridged-Dictionary-Section-I-J-K-and-L_664
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -29,5 +29,6 @@ rights_url: ''
 subjects:
 - !lcc 'PE'
 - !lcsh 'English language -- Dictionaries'
+- GITenberg
 title: "The Gutenberg Webster's Unabridged Dictionary\r\nSection I, J, K, and L"
 url: http://www.gutenberg.org/ebooks/664
